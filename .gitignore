@@ -1,0 +1,5 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/DatingApp/DatingApp.api/.vs/DatingApp.api/v16/Server/sqlite3/db.lock
